@@ -16,7 +16,7 @@ A modern, responsive YouTube downloader web application that allows users to dow
 
 ## 🚀 Demo
 
-Visit the live demo: [TikTok Downloader](https://ytdl.botzaku.eu.org)
+Visit the live demo: [YouTube Downloader](https://ytdl.botzaku.eu.org)
 
 ## 📸 Screenshots
 ![Screenshot](https://cdn.botzaku.eu.org/1OSC63Hk6amHc3DBFjg0aBxWZKarqbVXL)
@@ -150,7 +150,7 @@ Edit the CSS variables in the `<style>` section of `index.html`:
 
 ```css
 body { background: #000; color: #f1fdf1; }
-. btn { background: #98ff98; color: #000; }
+.btn { background: #98ff98; color: #000; }
 ```
 
 ## Legal Notice
