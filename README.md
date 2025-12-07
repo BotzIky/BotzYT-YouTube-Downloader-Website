@@ -2,7 +2,7 @@
 
 A modern, responsive YouTube downloader web application that allows users to download YouTube videos and audio in multiple qualities using the BotzApi.
 
-![YouTube Downloader](https://cdn. botzaku.eu.org/1dgrg_UmOtvHsMwCfoK0eYgdulOD-pa6G)
+![YouTube Downloader](https://cdn.botzaku.eu.org/1dgrg_UmOtvHsMwCfoK0eYgdulOD-pa6G)
 
 ## Features
 
