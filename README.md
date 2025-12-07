@@ -4,6 +4,8 @@ A modern, responsive YouTube downloader web application that allows users to dow
 
 ![YouTube Downloader](https://cdn.botzaku.eu.org/1dgrg_UmOtvHsMwCfoK0eYgdulOD-pa6G)
 
+---
+
 ## Features
 
 - 🎵 **Multiple Format Support**: Download audio (MP3) or video in various qualities (144p, 240p, 360p, 480p, 720p, 1080p)
@@ -14,12 +16,18 @@ A modern, responsive YouTube downloader web application that allows users to dow
 - 🖼️ **Video Preview**: Display thumbnail and metadata before downloading
 - 🌐 **SEO Optimized**: Includes meta tags for better search engine visibility
 
+---
+
 ## 🚀 Demo
 
 Visit the live demo: [YouTube Downloader](https://ytdl.botzaku.eu.org)
 
+---
+
 ## 📸 Screenshots
 ![Screenshot](https://cdn.botzaku.eu.org/1OSC63Hk6amHc3DBFjg0aBxWZKarqbVXL)
+
+---
 
 ## Technologies Used
 
@@ -29,6 +37,8 @@ Visit the live demo: [YouTube Downloader](https://ytdl.botzaku.eu.org)
 - **Bootstrap Icons**: Icon library for UI elements
 - **SweetAlert2**: Beautiful, responsive alert dialogs
 - **BotzApi**: YouTube download API backend
+
+---
 
 ## Installation
 
@@ -52,6 +62,8 @@ start index. html
 
 Or simply drag and drop the `index.html` file into your browser.
 
+---
+
 ## Usage
 
 1. **Paste YouTube URL**: Copy a YouTube video URL and paste it into the input field
@@ -62,6 +74,8 @@ Or simply drag and drop the `index.html` file into your browser.
 4. **Change Quality**: Click on any quality badge to switch formats
 5. **Download**: Click the "Download" button to open the download link in a new tab
 
+---
+
 ## File Structure
 
 ```
@@ -69,6 +83,8 @@ youtube-downloader/
 ├── index.html          # Main application file (standalone)
 └── README.md          # Documentation (this file)
 ```
+
+---
 
 ## API Integration
 
@@ -99,6 +115,8 @@ https://host.optikl. ink/download/youtube?url={VIDEO_URL}&format={FORMAT}
 }
 ```
 
+---
+
 ## Browser Compatibility
 
 - ✅ Chrome/Edge (latest)
@@ -106,6 +124,8 @@ https://host.optikl. ink/download/youtube?url={VIDEO_URL}&format={FORMAT}
 - ✅ Safari (latest)
 - ✅ Opera (latest)
 - ✅ Mobile browsers (iOS Safari, Chrome Mobile, Samsung Internet)
+
+---
 
 ## Features Breakdown
 
@@ -136,6 +156,8 @@ https://host.optikl. ink/download/youtube?url={VIDEO_URL}&format={FORMAT}
 - Success, error, and warning alerts
 - Auto-dismiss timers
 
+---
+
 ## Customization
 
 ### Colors
@@ -153,6 +175,8 @@ body { background: #000; color: #f1fdf1; }
 .btn { background: #98ff98; color: #000; }
 ```
 
+---
+
 ## Legal Notice
 
 This tool is provided for **personal use** and **convenience** only. Users must:
@@ -161,6 +185,8 @@ This tool is provided for **personal use** and **convenience** only. Users must:
 - ✅ Only download content they have rights to use
 - ✅ Use the tool responsibly and ethically
 - ❌ Not use for commercial redistribution without permission
+
+---
 
 ## Contributing
 
@@ -172,6 +198,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+---
+
 ## 🐛 Bug Reports
 
 If you find any bugs, please create an issue on GitHub with:
@@ -181,9 +209,13 @@ If you find any bugs, please create an issue on GitHub with:
 - Screenshots (if applicable)
 - Browser and OS information
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+---
 
 ## 👨‍💻 Author
 
@@ -196,12 +228,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - WhatsApp: [Channel](https://whatsapp.com/channel/0029VbBjxQl8qIzmg51J5W3x)
 - Discord: [Server](https://discord.gg/Ehr7DrsU)
 
+---
+
 ## 🙏 Acknowledgments
 
 - [BotzApi](https://host.optikl.ink) for providing the TikTok download API
 - [Bootstrap Icons](https://icons.getbootstrap.com/) for beautiful icons
 - [SweetAlert2](https://sweetalert2.github.io/) for elegant alerts
 - All contributors and users of this project
+
+---
+
+## ❗ Important
+For anyone who wants to use my repositories Web [Instagram Downloader](https://github.com/BotzIky/BotzIG-Instagram-Downloader-Website), [TikTok Downloader](https://github.com/BotzIky/TikBotz-TikTok-Downloader-Website), and [YouTube Downloader](https://github.com/BotzIky/BotzYT-YouTube-Downloader-Website), please remove the last four <script> tags at the bottom of index.html if you want to disable the ads.
+![Important](https://cdn.botzaku.eu.org/1aRAMFfMXrnQ9vnNhkRtaJvO8utVJR56v)
+
+---
 
 ## ⭐ Star History
 
