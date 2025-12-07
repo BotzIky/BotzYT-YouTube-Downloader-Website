@@ -14,6 +14,13 @@ A modern, responsive YouTube downloader web application that allows users to dow
 - 🖼️ **Video Preview**: Display thumbnail and metadata before downloading
 - 🌐 **SEO Optimized**: Includes meta tags for better search engine visibility
 
+## 🚀 Demo
+
+Visit the live demo: [TikTok Downloader](https://ytdl.botzaku.eu.org)
+
+## 📸 Screenshots
+![Screenshot](https://cdn.botzaku.eu.org/1OSC63Hk6amHc3DBFjg0aBxWZKarqbVXL)
+
 ## Technologies Used
 
 - **HTML5**: Semantic markup structure
@@ -165,26 +172,41 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Support
+## 🐛 Bug Reports
 
-For support, please contact:
+If you find any bugs, please create an issue on GitHub with:
+- Description of the bug
+- Steps to reproduce
+- Expected behavior
+- Screenshots (if applicable)
+- Browser and OS information
 
-- 📧 Telegram: [@BotzAku](https://t.me/BotzAku)
-- 🐦 Twitter: [@botz_aku](https://twitter.com/botz_aku)
-- 📱 Instagram: [@botzaku](https://instagram.com/botzaku)
+## 📄 License
 
-## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
-This project is open source and available for personal and educational use.
+## 👨‍💻 Author
 
-## Credits
+**BotzAku (Riski Yanda)**
+- Website: [https://botzaku.eu.org](https://botzaku.eu.org)
+- Instagram: [@botzaku](https://instagram.com/botzaku)
+- TikTok: [@botzaku](https://tiktok.com/@botzaku)
+- Twitter: [@botz_aku](https://twitter.com/botz_aku)
+- Telegram: [BotzAku](https://t.me/BotzAku)
+- WhatsApp: [Channel](https://whatsapp.com/channel/0029VbBjxQl8qIzmg51J5W3x)
+- Discord: [Server](https://discord.gg/Ehr7DrsU)
 
-- **API Provider**: [BotzApi](https://host.optikl.ink)
-- **Icon Library**: [Bootstrap Icons](https://icons.getbootstrap.com)
-- **Alert Library**: [SweetAlert2](https://sweetalert2.github.io)
+## 🙏 Acknowledgments
+
+- [BotzApi](https://host.optikl.ink) for providing the TikTok download API
+- [Bootstrap Icons](https://icons.getbootstrap.com/) for beautiful icons
+- [SweetAlert2](https://sweetalert2.github.io/) for elegant alerts
+- All contributors and users of this project
+
+## ⭐ Star History
+
+If you find this project useful, please consider giving it a star on GitHub! 
 
 ---
 
-**Made with ❤️ by BotzAku**
-
-© 2025 BotzAku. All rights reserved.
+Made with ❤️ by [BotzAku](https://botzaku.eu.org)
