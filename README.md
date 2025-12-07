@@ -170,7 +170,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For support, please contact:
 
 - 📧 Telegram: [@BotzAku](https://t.me/BotzAku)
-- 🐦 Twitter: [@botz_aku](https://twitter. com/botz_aku)
+- 🐦 Twitter: [@botz_aku](https://twitter.com/botz_aku)
 - 📱 Instagram: [@botzaku](https://instagram.com/botzaku)
 
 ## License
@@ -181,7 +181,7 @@ This project is open source and available for personal and educational use.
 
 - **API Provider**: [BotzApi](https://host.optikl.ink)
 - **Icon Library**: [Bootstrap Icons](https://icons.getbootstrap.com)
-- **Alert Library**: [SweetAlert2](https://sweetalert2.github. io)
+- **Alert Library**: [SweetAlert2](https://sweetalert2.github.io)
 
 ---
 
